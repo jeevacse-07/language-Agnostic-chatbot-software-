@@ -2,8 +2,12 @@
 Language Agnostic Chatbot Software
 AI-Powered Multilingual Chatbot
 Overview
-Language Agnostic Chatbot Software is a full-stack AI-powered web application that enables users to communicate with a chatbot in multiple languages without manually selecting a language. The system automatically detects the user's input language and generates intelligent, context-aware responses in the same language using a Large Language Model (LLM).
+
+Language Agnostic Chatbot Software is a full-stack AI-powered web application that enables users to communicate with a chatbot in multiple languages without manually selecting a language. 
+The system automatically detects the user's input language and generates intelligent, context-aware responses in the same language using a Large Language Model (LLM).
+
 The application is designed to eliminate language barriers and provide seamless communication for educational institutions, businesses, customer support centers, healthcare, banking, e-commerce, and government organizations.
+
 Features
 🌍 Automatic Language Detection
 🤖 AI-Powered Chatbot
