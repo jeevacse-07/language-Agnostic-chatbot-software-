@@ -37,7 +37,7 @@ language-agnostic-chatbot/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/language-agnostic-chatbot.git
+   git clone https://github.com/jeevanandh/language-agnostic-chatbot.git
    cd language-agnostic-chatbot
    ```
 
