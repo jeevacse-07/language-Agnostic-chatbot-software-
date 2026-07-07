@@ -1,0 +1,6 @@
+{
+  "name": "Friendly Chat Assistant",
+  "description": "A warm, helpful, and highly-adaptive general purpose AI chatbot featuring customizable bot personas and chat histories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
