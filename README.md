@@ -67,13 +67,6 @@ It can be used for:
 * Easy integration
 
 ---
-
-# 🌍 Live Website
-
-https://friendly-chat-assistant-348141606107.asia-southeast1.run.app
-
----
-
 # 📷 Screenshots
 
 Add screenshots here.
