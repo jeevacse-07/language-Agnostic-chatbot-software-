@@ -1,4 +1,15 @@
-x# 🤖 Friendly Chat Assistant
+
+ 
+ 
+ 
+ Language Agnostic Chatbot Software
+Overview
+
+Language Agnostic Chatbot Software is an AI-powered chatbot that enables users to communicate in multiple languages without language barriers. It automatically detects the user's language, understands the query, and responds in the same or a preferred language
+ 
+ youtube link:
+ https://youtu.be/0IN4FCv2tV8?si=zYpjOrZMdHOS7UPi
+ 🤖 Friendly Chat Assistant
 
 > An AI-powered conversational assistant deployed on Google Cloud Run, designed to provide fast, intelligent, and user-friendly interactions through a modern web interface.
 
